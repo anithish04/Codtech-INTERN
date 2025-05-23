@@ -1,0 +1,8 @@
+Name,Age,Gender,Salary,Department
+Alice,25,Female,50000,Sales
+Bob,30,Male,60000,Marketing
+Charlie,,Male,55000,Sales
+David,45,,70000,HR
+Eva,35,Female,,Finance
+Frank,40,Male,65000,Marketing
+Grace,29,Female,48000,Sales
